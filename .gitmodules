@@ -1,0 +1,4 @@
+[submodule "McoreUtils"]
+	path = McoreUtils
+	url = https://github.com/epics-modules/McoreUtils
+	ignore = all
