@@ -19,6 +19,7 @@ pcre_VERSION=
 stream_VERSION=
 s7plc_VERSION=
 recsync_VERSION=
+MCoreUtils_VERSION=
 
 devlib2_VERSION=
 mrfioc2_VERSION=
