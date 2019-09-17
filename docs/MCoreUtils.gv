@@ -1,0 +1,8 @@
+digraph MCoreUtils {
+node [shape=record];
+base [label="base 7.0.3"]
+require [label="require 3.1.1"]
+MCoreUtils [label="MCoreUtils 1.2.1"]
+base -> require ->  MCoreUtils 
+} 
+
